@@ -5,7 +5,7 @@
 ## 前提条件
 　Tableau Desktopがデフォルトにインストールされていること  
 　(C:\Program Files\Tableau\Tableau XXXX.X\bin\tableau.exe)  
-　※違う場所にインストールしている方は個別に三村に相談ください  
+　※違う場所にインストールしている方は個別に相談ください  
 
 ## 注意
 　以下の使用方法 2～の手順で、Tableauファイルをいつもこのプログラムで開く設定にすると  
