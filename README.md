@@ -16,8 +16,10 @@
   6. OpenTableau.exe is specified.  
   7. Click Apply to close the property.  
   8. also do 2 to 7 for TWBX  
-　This operation is OK for the first time only.  
+  This operation is OK for the first time only.  
 
 ## Cautions
-　If you set the Tableau file to always be opened by this program as described in the steps 2.The icon of the Tableau file will be the same as the icon of this program.  
-　If you try to open a Tableau file of the version which is not installed, the error message is displayed and it is terminated.In this case, it is necessary to launch Tableau individually and open a file.  
+　If you set the Tableau file to always be opened by this program as described in the steps 2.  
+  The icon of the Tableau file will be the same as the icon of this program.  
+　If you try to open a Tableau file of the version which is not installed, the error message is displayed and it is terminated.  
+  In this case, it is necessary to launch Tableau individually and open a file.  
