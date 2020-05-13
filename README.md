@@ -3,7 +3,7 @@
  
 ## Prerequisites.
 　Tableau Desktop must be installed by default.  
-　(C:Copyright©Program Files\cTableauTableau XXXX.X\bin\cTableau.exe)  
+　(C:\\Program Files\cTableauTableau XXXX.X\bin\cTableau.exe)  
 
 ## How to use
   1. Copy OpenTableau.exe to your PC (Location can be anywhere).  
