@@ -19,7 +19,7 @@
   6. OpenTableau.exe is specified.  
   7. Click Apply to close the property.  
   8. also do 2 to 7 for TWBX  
-  This operation is OK for the first time only.  
+This operation is OK for the first time only.  
 
 ## Cautions
 
