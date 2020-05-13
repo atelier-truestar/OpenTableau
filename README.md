@@ -1,30 +1,27 @@
 # OpenTableau
 
-  Open the Tableau file in the correct version
- 
-## Prerequisites
+　Tableauファイル(.twb,.twbx)を適切なバージョンで開く  
 
-  Tableau Desktop must be installed by default.  
-  (C:\\Program Files\cTableauTableau XXXX.X\bin\cTableau.exe)  
+## 前提条件
+　Tableau Desktopがデフォルトにインストールされていること  
+　(C:\Program Files\Tableau\Tableau XXXX.X\bin\tableau.exe)  
+　※違う場所にインストールしている方は個別に三村に相談ください  
 
-## How to use
+## 注意
+　以下の使用方法 2～の手順で、Tableauファイルをいつもこのプログラムで開く設定にすると  
+　・Tableauファイルのiconがこのプログラムのiconと同じになります。  
+　・インストールしていないバージョンのTableauファイルを開こうとすると、エラーメッセージを表示して終了します。  
+　　その場合は個別にTableauを立ち上げてファイルを開く等の操作が必要です。  
 
-  1. Copy OpenTableau.exe to your PC (Location can be anywhere).  
-      Dragging a Tableau file to OpenTableau.exe will open it with the appropriate version.  
-      If you want to double-click the Tableau file to open it in the appropriate version, please do the following  
-  2. In Explorer, select an appropriate .twb file → Display Properties  
-  3. Press the change button next to the program.  
-  4. Other app designations (scroll to the bottom)  
-  5. Find another app on this PC  
-  6. OpenTableau.exe is specified.  
-  7. Click Apply to close the property.  
-  8. also do 2 to 7 for TWBX  
-  
-This operation is OK for the first time only.  
-
-## Cautions
-
-  If you set the Tableau file to always be opened by this program as described in the steps 2.  
-  The icon of the Tableau file will be the same as the icon of this program.  
-  If you try to open a Tableau file of the version which is not installed, the error message is displayed and it is terminated.  
-  In this case, it is necessary to launch Tableau individually and open a file.  
+## 使用方法
+  1. OpenTableau.exe を使用PCにコピーする(場所はどこでもOK)  
+　OpenTableau.exe に Tableauファイルをドラッグすると適切なバージョンで開きます。  
+　Tableauファイルをダブルクリックで適切なバージョンで開きたい場合は、以下の操作をお願いいたします。  
+　2. エクスプローラーで、適当な.twbファイル選択 → プロパティ表示  
+　3. プログラム横の変更ボタン押下  
+　4. その他のアプリ指定（一番下までスクロール)  
+　5. このPCで別のアプリを探す  
+　6. OpenTableau.exe を指定  
+　7. 適用を押下し、プロパティを閉じる  
+　8. .twbxについても2～7を行う  
+　※この操作は初回のみでOKです.
