@@ -12,10 +12,10 @@
   2. In Explorer, select an appropriate .twb file → Display Properties  
   3. Press the change button next to the program.  
   4. Other app designations (scroll to the bottom)  
-　5. Find another app on this PC  
-　6. OpenTableau.exe is specified.  
-　7. Click Apply to close the property.  
-　8. also do 2 to 7 for TWBX  
+  5. Find another app on this PC  
+  6. OpenTableau.exe is specified.  
+  7. Click Apply to close the property.  
+  8. also do 2 to 7 for TWBX  
 　This operation is OK for the first time only.  
 
 ## Cautions
